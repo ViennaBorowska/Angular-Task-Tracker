@@ -1,7 +1,9 @@
-export const TASKS = [
+import { Task } from './Task';
+
+export const TASKS: Task[] = [
   {
     id: 1,
-    text: 'Doctors Appoiuntment',
+    text: 'Doctors Appointment',
     day: 'May 5th at 2:30pm',
     reminder: true,
   },
