@@ -13,12 +13,6 @@
       "reminder": true
     },
     {
-      "id": 3,
-      "text": "Book Club",
-      "day": "May 11th at 6:30pm",
-      "reminder": true
-    },
-    {
       "id": 4,
       "text": "Taxes",
       "day": "May 13th at 6pm",
