@@ -10,19 +10,19 @@
       "id": 2,
       "text": "Swimming",
       "day": "May 7th at 7:30pm",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Book Club",
-      "day": "May 11th at 6:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 4,
       "text": "Taxes",
       "day": "May 13th at 6pm",
       "reminder": true
+    },
+    {
+      "text": "Test Task",
+      "day": "May 4th",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
