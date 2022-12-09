@@ -37,7 +37,7 @@ Once you are running the dev and database servers locally, you can create, toggl
 
 Click the 'Add' button in the top right corner. This will reveal a form to create your task with a simple title and date text input, and a check box to toggle the reminder.
 
-![](/img/ATT-Add.mp4)
+![](/img/att2.JPG)
 
 You can also toggle the reminder by clicking the task once it has been created and added to the list. Tasks can be deleted by clicking the red 'X' in the top right corner of the individual task.
 
