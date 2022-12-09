@@ -4,3 +4,10 @@ header {
   align-items: center;
   margin-bottom: 20px;
 }
+
+h1 {
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
