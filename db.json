@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Book Club",
-      "day": "May 11th at 6:30pm",
-      "reminder": true
-    },
-    {
       "id": 2,
       "text": "Swimming",
       "day": "May 7th at 7:30pm",
@@ -19,8 +13,8 @@
       "reminder": true
     },
     {
-      "text": "Test Task",
-      "day": "May 4th",
+      "text": "Shopping",
+      "day": "November 10th",
       "reminder": true,
       "id": 5
     }
